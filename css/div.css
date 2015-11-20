@@ -1,0 +1,45 @@
+/* 
+Copyright 2005 Eunix 
+Div CSS
+$Revision: 1.00 $ 
+*/
+div#top {position: relative;top: 0; right: 0;text-align: left;padding: 0;margin: 0 auto;width: 600px !important;width: 600px;height: 130px !important;height: 130px}
+
+div#topMagic {position: relative;top: 0; right: 0;text-align: left;padding: 0;margin: 0 auto;width: 600px !important;width: 600px;height: 70px !important;height: 70px}
+
+div#nav {position: relative;top: 0; right: 0;text-align: center;padding: 0;margin: 0 auto;width: 580px !important;width: 580px;height: 40px !important;height: 40px;}
+div#nav ul{list-style-type: none;margin:0;padding:0;}
+div#nav li{float:left;margin: 6px 0px 0px 6px;}
+
+div#center {position: relative;top: 0; right: 0;text-align: left;padding: 0;margin: 0 auto;width: 600px !important;width: 600px;height: 30px !important;height: 30px}
+
+div#content {position: relative;background: url(/images/content.gif) repeat-y;top: 0; right: 0;text-align: left;padding: 0;margin: 0 auto;width: 600px !important;width: 600px;height: auto;}
+div#content ul.field{list-style-type: none;width:600px !important;width:520px;margin:0px 0px 0px 0px;padding:0;}
+div#content li.field{float:left;width:300px !important;width:260px;margin: 0px 0px 0px 0px;text-align:left;}
+
+div#pages {width:100%;padding-bottom:0px;margin:0px 0px -10px 0px;}
+div#pages ul{list-style-type: none;margin:0px 20px 0px 20px;padding:0;}
+div#pages li.right{float:right;margin: 0px 0px 0px 0px;text-align:right;}
+div#pages li.left{float:left;margin: 0px 0px 0px 0px;text-align:left;}
+
+div#minipics{float:left;width:100%;margin:-10px 0px -10px 0px;padding-bottom:10px}
+div#minipics ul{list-style-type: none;margin:0px 0px 0px 20px;padding:0;}
+div#minipics li{float:left;width:180px;margin: 10px 10px 10px 0;background-color: #D6DEC5;text-align:center;}
+div#minipics li.none{float:left;width:180px;margin: 10px 10px 10px 0;text-align:center;}
+div#minipics li img{display: block;width: 160px;height: 120px;margin:5px 10px;border: 0px;}
+
+div#psycho{float:left;width:560px;padding-bottom:0px;margin:0px 0px 0px 20px !important;margin:0px 0px 0px 10px;}
+div#psycho ul{list-style-type: none;margin:5px 0px 0px 0px;padding:0}
+div#psycho li{float:left;width:140px;margin: 0px 0px 0px 0px;text-align:right;}
+div#psycho li img{display: block;width: 140px;height: 105px;margin:0px 0px 0px 0px;border: 0px}
+
+div#bottom {position: relative;top: 0; right: 0;text-align: left;padding: 0;margin: 0 auto;width: 600px !important;width: 600px;height: 20px !important;height: 20px}
+
+div#eunix {position: relative;top: -30px; right: 0;text-align: right;padding: 0;margin: 0 auto;width: 600px !important;width: 600px;height: 20px !important;height: 20px}
+
+div.infoblock{display:block;background:#E4E7F2;text-align:left;margin: 0px 15px 5px 15px}
+div.infoblock p{margin: 0px 15px 0px 10px;padding: 0 0 0.7em;line-height: 1.6;}
+
+div#onlyBlock {position: relative;background: url(/images/error404.gif) no-repeat;top: 200px; right: 0;text-align: left;padding: 0;margin: 0 auto;width: 600px !important;width: 600px;height: 150px !important;height: 150px}
+div#onlyBlock p{margin:0px 15px 0px 310px;}
+div#onlyBlock h4{margin: 0px 15px 0px 310px;font-size: 100%;color:gray;padding-top:15px;}
